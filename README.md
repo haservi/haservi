@@ -14,10 +14,3 @@ I am interested in Spring Framework and DevOps.
   <img alt='Flutter' src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img alt='VueJs' src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </div>
-<br />
-<div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haservi&show_icons=true&theme=dark&cache_seconds=1800">
-</div>
-<div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haservi&layout=compact&theme=dark&cache_seconds=1800">
-</div>
